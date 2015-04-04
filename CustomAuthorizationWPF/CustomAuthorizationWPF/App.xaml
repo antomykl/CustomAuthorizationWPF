@@ -1,0 +1,8 @@
+﻿
+<Application x:Class="CustomAuthorizationWPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Application.Resources>
+        <!--http://blog.magnusmontin.net/2013/03/24/custom-authorization-in-wpf/-->
+    </Application.Resources>
+</Application>
